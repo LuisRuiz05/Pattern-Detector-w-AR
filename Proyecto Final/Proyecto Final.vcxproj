@@ -143,14 +143,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Path\ARma_demo.cpp" />
-    <ClCompile Include="..\..\Path\pattern.cpp" />
-    <ClCompile Include="..\..\Path\patterndetector.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Path\cameraparams.h" />
-    <ClInclude Include="..\..\Path\pattern.h" />
-    <ClInclude Include="..\..\Path\patterndetector.h" />
+    <ClInclude Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\cameraparams.h" />
+    <ClInclude Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.h" />
+    <ClInclude Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,34 +1,151 @@
 ﻿  ARma_demo.cpp
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(177,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(185,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(190,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(190,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(206,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(206,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(210,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(211,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(224,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(234,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(234,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,34): warning C4101: 'y2': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,30): warning C4101: 'y1': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,22): warning C4101: 'x1': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,65): warning C4101: 'r2': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,38): warning C4101: 'p': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,51): warning C4101: 'q21': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,41): warning C4101: 'q11': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,61): warning C4101: 'r1': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,46): warning C4101: 'q12': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,56): warning C4101: 'q22': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(223,26): warning C4101: 'x2': unreferenced local variable
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(300,30): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(35,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(41,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(42,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(48,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(49,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(50,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(51,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(55,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(55,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(74,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(75,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(93,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(94,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(111,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(112,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(115,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp(116,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  pattern.cpp
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(13,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(62,19): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
           with
           [
-              _Tp=uchar
+              _Tp=float
           ]
-C:\Users\super\Desktop\Procesamiento de Imágenes\Path\ARma_demo.cpp(327,35): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(65,19): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
           with
           [
-              _Tp=uchar
+              _Tp=float
           ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(66,19): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(69,19): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(151,32): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(152,32): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(154,39): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(154,36): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(194,59): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(194,106): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(195,59): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(195,106): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(196,59): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(196,106): warning C4244: 'argument': conversion from '_Tp' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(210,26): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(211,26): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(212,70): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(212,52): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(272,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(283,18): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(309,34): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(310,34): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp(311,34): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  patterndetector.cpp
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp(33,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp(34,44): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp(34,33): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp(35,35): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\super\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp(148,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
   Proyecto Final.vcxproj -> C:\Users\super\Desktop\Procesamiento de Imágenes\Proyecto Final\x64\Debug\Proyecto Final.exe

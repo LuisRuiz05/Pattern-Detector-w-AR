@@ -15,24 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Path\ARma_demo.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\ARma_demo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Path\pattern.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Path\patterndetector.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Path\cameraparams.h">
+    <ClInclude Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\cameraparams.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Path\pattern.h">
+    <ClInclude Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\pattern.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Path\patterndetector.h">
+    <ClInclude Include="..\..\..\..\Downloads\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\Procesamiento de imagenes examen final\patterndetector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
